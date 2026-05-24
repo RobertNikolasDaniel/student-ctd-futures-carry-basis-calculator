@@ -36,7 +36,6 @@ The calculator:
    * implied futures spot
    * DV01 exposure
    * futures DV01 exposure
-   * DV01-neutral hedge ratio
    * basis points / price points
    * simplified basis P/L
 
@@ -82,7 +81,6 @@ Key intuition:
 * Net Carry Price Points
 * CTD DV01
 * Futures DV01
-* DV01 Hedge Ratio
 * Basis Points / Price Points
 * Simplified Basis P/L
 
